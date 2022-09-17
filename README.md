@@ -1,1 +1,1 @@
-# Weather App built with React and TailwindCSS.
+# Weather App
